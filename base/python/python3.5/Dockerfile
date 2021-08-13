@@ -1,3 +1,3 @@
-FROM python:3.5
+FROM python:rc-buster
 
 LABEL maintainer="phithon <root@leavesongs.com>"
